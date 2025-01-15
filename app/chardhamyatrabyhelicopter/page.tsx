@@ -8,7 +8,7 @@ export default function ChardhamYatraByHelicopter() {
       </h1>
 
       <Image
-        src="/placeholder.svg?height=400&width=800"
+        src="/pic3.jpg"
         width={800}
         height={400}
         alt="Chardham Yatra Helicopter View"

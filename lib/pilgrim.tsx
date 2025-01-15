@@ -3,7 +3,7 @@ export const pilgrims = [
     {
         id: 1,
         name: "Chardham Yatra",
-        url: "/pic1.jpg",
+        url: "/pic1.png",
         discount: "10%",
         duration: "10 Days & 09 Nights",
         link: "chardhamyatra"
@@ -11,7 +11,7 @@ export const pilgrims = [
     {
         id: 2,
         name: "Do Dham Yatra",
-        url: "/pic2.jpeg",
+        url: "/pic2.jpg",
         discount: "10%",
         duration: "06 Days & 05 Nights",
         link: "dodhamyatra"
@@ -27,15 +27,15 @@ export const pilgrims = [
     {
         id: 4,
         name: "Do Dham Yatra By Helicopter",
-        url: "/pic4.jpeg",
+        url: "/pic4.png",
         discount: "12%",
         duration: "04 Days & 03 Nights",
         link: "dodhamyatrabyhelicopter",
     },
     {
         id: 5,
-        name: "Char Dham Yatra By Helicopter",
-        url: "/pic5.jpg",
+        name: "Do Dham Yatra By Helicopter (1 Day)",
+        url: "/pic4.jpg",
         discount: "12%",
         duration: "1 Day",
         link: "dodhamyatrabyhelicopter1day",

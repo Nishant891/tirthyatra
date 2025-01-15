@@ -12,8 +12,8 @@ const Footer = () => {
               Experience divine transformation and inner peace.
             </p>
           </div>
-          <div className="mb-4">
-            <h3 className="text-xl font-semibold mb-4">Contact Us</h3>
+          <div className="mb-2">
+            <h3 className="text-xl font-semibold mb-2">Contact Us</h3>
             <div className="flex flex-col">
             <a href="mailto:info@tirthyatra.com">
                 <svg
