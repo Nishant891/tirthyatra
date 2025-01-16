@@ -185,7 +185,6 @@ export default function DodhamYatraByHelicopter() {
           </div>
         </div>
       </section>
-
       <section className="mb-12">
         <h2 className="text-2xl font-semibold mb-4">What's Included</h2>
         <ul className="list-disc list-inside text-gray-700 space-y-2">
